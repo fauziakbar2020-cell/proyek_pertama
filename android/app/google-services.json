@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80132085234",
+    "project_id": "domeh-fc523",
+    "storage_bucket": "domeh-fc523.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80132085234:android:8d1dc077e136df6b06076b",
+        "android_client_info": {
+          "package_name": "com.example.proyek_pertama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQPz1jRWf-LzCz-P7c-p4m4NYRwpiGTlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
